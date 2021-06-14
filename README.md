@@ -86,11 +86,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`sujeet3`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+`sujeet3`, `Scientific_clac`, `@Sujeet53138867`, `sujeet111sujeet@gmail.com`, `Scientific_calculator`, `There you can calculat any numberic vale`
 
 
 ### Built With
@@ -118,7 +118,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/sujeet3/repo_name.git
+   git clone https://github.com/sujeet3/scentific_calc.git
    ```
 2. Install NPM packages
    ```sh
@@ -166,7 +166,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Your Name - [@Sujeet53138867](https://twitter.com/Sujeet53138867) - email- sujeet111sujeet@gmail.com
 
 Project Link: [https://github.com/sujeet3/repo_name](https://github.com/sujeet3/repo_name)
 
@@ -193,5 +193,7 @@ Project Link: [https://github.com/sujeet3/repo_name](https://github.com/sujeet3/
 [stars-url]: https://github.com/sujeet3/repo/stargazers
 [issues-shield]: https://img.shields.io/github/issues/sujeet3/repo.svg?style=for-the-badge
 [issues-url]: https://github.com/sujeet3/Scientific_calc/issues
+[license-shield]: https://img.shields.io/github/license/sujeet3/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/sujeet3/Scientific_calc/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/sujeet-pandit-6a9582199/
