@@ -88,8 +88,7 @@
 
 
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
+
 `sujeet3`, `Scientific_clac`, `@Sujeet53138867`, `sujeet111sujeet@gmail.com`, `Scientific_calculator`, `There you can calculat any numberic vale`
 
 
@@ -108,11 +107,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+python3
 
 ### Installation
 
@@ -120,26 +115,22 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    git clone https://github.com/sujeet3/scentific_calc.git
    ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
+2. Install Maths packages
+  
 
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+
 
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/sujeet3/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/sujeet3/Scientifc_calc/issues) for a list of proposed features (and known issues).
 
 
 
